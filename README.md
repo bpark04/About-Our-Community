@@ -1,6 +1,6 @@
 # About Our Community 
 
-INTRO 
+About 
 ---------
 Our focus revolve around the residents in a community and explores how residents
 engage in their daily community activities. The activities vary from educational
@@ -8,7 +8,7 @@ engage in their daily community activities. The activities vary from educational
 and family time(resident)  in various locations around the community. Certain locations support
 further information like residents ranking for this place.
 
-THINGS IT CAN DO
+Things You Can Do
 --------
 - Insert a new resident with provided information to our database
 - Delete the drink that is also a coffee
