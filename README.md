@@ -19,7 +19,7 @@ Things You Can Do
 - Return the price of the most expensive coffee(s) grouped by coffee type
 - Find activity that are being hosted in every park
 
-This project supports following SQL Queries:
+Implemented SQL Operations/Queries:
 --------
 - SQL script to create all the tables and data in the database
 - INSERT Operation
