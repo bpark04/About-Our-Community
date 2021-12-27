@@ -2,7 +2,7 @@
 
 About 
 ---------
-Our focus revolve around the residents in a community and explores how residents
+Our focus revolves around the residents in a community and explores how residents
 engage in their daily community activities. The activities vary from educational
 (school, library), recreational(cafe, community centre), sportive(community centre, park) 
 and family time(resident)  in various locations around the community. Certain locations support
