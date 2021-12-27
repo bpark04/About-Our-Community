@@ -30,6 +30,6 @@ Implemented SQL Operations/Queries:
 - Join
 - Aggregation with Group By
 - Aggregation with Having
-- Nested Aggregation with Group By
+- Nested Aggregation with Group By and Having
 - Division
 
