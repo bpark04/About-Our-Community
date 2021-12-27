@@ -18,3 +18,18 @@ Things You Can Do
 - Return all residents that are in schools
 - Return the price of the most expensive coffee(s) grouped by coffee type
 - Find activity that are being hosted in every park
+
+This project supports following SQL Queries:
+--------
+- SQL script to create all the tables and data in the database
+- INSERT Operation
+- DELETE Operation
+- UPDATE Operation
+- Selection
+- Projection
+- Join
+- Aggregation with Group By
+- Aggregation with Having
+- Nested Aggregation with Group By
+- Division
+
