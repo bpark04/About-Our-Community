@@ -34,3 +34,6 @@ Implemented SQL Operations/Queries:
 - Nested Aggregation with Group By and Having
 - Division
 
+Rererences:
+--------
+UBC CPSC 304 Course Decription: https://www.students.cs.ubc.ca/~cs-304/2020S/index.html
