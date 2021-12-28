@@ -2,6 +2,7 @@
 
 About 
 ---------
+About Our Community is a full database web application developed using Oracle Database, PHP, and JavaScript to help individuals discover and plan available activities and locations in their community.
 Our focus revolves around the residents in a community and explores how residents
 engage in their daily community activities. The activities vary from educational
 (school, library), recreational(cafe, community centre), sportive(community centre, park) 
